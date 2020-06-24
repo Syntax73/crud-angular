@@ -1,6 +1,6 @@
 # CRUD SPA
 
-Uma simples SPA feita com Angular 9 e com uma RESTA API feita com [json-sever](https://github.com/typicode/json-server) segindo o tutorial do canal da [Cod3r](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3).
+Uma simples SPA feita com Angular 9 e com uma REST API feita com [json-sever](https://github.com/typicode/json-server) segindo o tutorial do canal da [Cod3r](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3).
 
 ## Setup
 
